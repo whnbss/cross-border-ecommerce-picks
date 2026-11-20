@@ -8,6 +8,8 @@
 | --- | --- | --- | --- |
 | 2026-11-18 | 自媒体 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 69,389 |
 | 2026-11-19 | 自媒体 | [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 16,690 |
+| 2026-11-20 | 跨境电商 | [bagisto/bagisto](https://github.com/bagisto/bagisto) | 28,389 |
+| 2026-11-20 | 自媒体 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 87,047 |
 
 ## 目录结构
 
