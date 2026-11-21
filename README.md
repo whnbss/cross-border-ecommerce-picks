@@ -10,6 +10,8 @@
 | 2026-11-19 | 自媒体 | [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) | 16,690 |
 | 2026-11-20 | 跨境电商 | [bagisto/bagisto](https://github.com/bagisto/bagisto) | 28,389 |
 | 2026-11-20 | 自媒体 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 87,047 |
+| 2026-11-21 | 跨境电商 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40,267 |
+| 2026-11-21 | 自媒体 | [modelscope/FunClip](https://github.com/modelscope/FunClip) | 6,606 |
 
 ## 目录结构
 
