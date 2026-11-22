@@ -12,6 +12,8 @@
 | 2026-11-20 | 自媒体 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 87,047 |
 | 2026-11-21 | 跨境电商 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 40,267 |
 | 2026-11-21 | 自媒体 | [modelscope/FunClip](https://github.com/modelscope/FunClip) | 6,606 |
+| 2026-11-22 | 跨境电商 | [frappe/erpnext](https://github.com/frappe/erpnext) | 41,516 |
+| 2026-11-22 | 自媒体 | [browser-use/video-use](https://github.com/browser-use/video-use) | 31,403 |
 
 ## 目录结构
 
