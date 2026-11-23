@@ -14,6 +14,8 @@
 | 2026-11-21 | 自媒体 | [modelscope/FunClip](https://github.com/modelscope/FunClip) | 6,606 |
 | 2026-11-22 | 跨境电商 | [frappe/erpnext](https://github.com/frappe/erpnext) | 41,516 |
 | 2026-11-22 | 自媒体 | [browser-use/video-use](https://github.com/browser-use/video-use) | 31,403 |
+| 2026-11-23 | 跨境电商 | [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 21,518 |
+| 2026-11-23 | 自媒体 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 13,441 |
 
 ## 目录结构
 
