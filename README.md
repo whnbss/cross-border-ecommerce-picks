@@ -18,6 +18,8 @@
 | 2026-11-23 | 自媒体 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 13,441 |
 | 2026-11-24 | 跨境电商 | [danielgatis/rembg](https://github.com/danielgatis/rembg) | 25,651 |
 | 2026-11-24 | 自媒体 | [lipku/LiveTalking](https://github.com/lipku/LiveTalking) | 10,925 |
+| 2026-11-25 | 跨境电商 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45,896 |
+| 2026-11-25 | 自媒体 | [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 64,238 |
 
 ## 目录结构
 
