@@ -20,6 +20,8 @@
 | 2026-11-24 | 自媒体 | [lipku/LiveTalking](https://github.com/lipku/LiveTalking) | 10,925 |
 | 2026-11-25 | 跨境电商 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45,896 |
 | 2026-11-25 | 自媒体 | [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 64,238 |
+| 2026-11-26 | 跨境电商 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 36,042 |
+| 2026-11-26 | 自媒体 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148,619 |
 
 ## 目录结构
 
