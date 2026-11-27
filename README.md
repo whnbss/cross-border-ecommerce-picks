@@ -22,6 +22,8 @@
 | 2026-11-25 | 自媒体 | [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) | 64,238 |
 | 2026-11-26 | 跨境电商 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 36,042 |
 | 2026-11-26 | 自媒体 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148,619 |
+| 2026-11-27 | 跨境电商 | [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) | 4,469 |
+| 2026-11-27 | 自媒体 | [denizsafak/abogen](https://github.com/denizsafak/abogen) | 6,285 |
 
 ## 目录结构
 
