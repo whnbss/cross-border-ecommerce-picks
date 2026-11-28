@@ -24,6 +24,8 @@
 | 2026-11-26 | 自媒体 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 148,619 |
 | 2026-11-27 | 跨境电商 | [GreaterWMS/GreaterWMS](https://github.com/GreaterWMS/GreaterWMS) | 4,469 |
 | 2026-11-27 | 自媒体 | [denizsafak/abogen](https://github.com/denizsafak/abogen) | 6,285 |
+| 2026-11-28 | 跨境电商 | [knadh/listmonk](https://github.com/knadh/listmonk) | 24,488 |
+| 2026-11-28 | 自媒体 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | 55,947 |
 
 ## 目录结构
 
